@@ -41,18 +41,36 @@ The idea behind ToodleDo comes from integrating an interactive To Do list with a
 
 ## Demo
 
-![Demo](todo1.gif)
+<h1 align="center">
+   ToodleDo| Task Reminder Application .
+</h1>
 
-![Demo](todo2.gif)
+<div align="center">
 
-![Demo](todo3.gif)
+![Demo1](todo1.gif)
+
+![Demo2](todo2.gif)
+
+![Demo3](todo3.gif)
+
+ A sms task reminder application built in Spring boot, React js.
+    
+</div>
+
+
 
 ---
 
 ## Screenshots
-![5.png](./src/images/TwilioHackathon.png)
+* Home Page:
 
 ![1.png](./src/images/pic3.png)
+
+* Task Reminder Form Page:
+
+![5.png](./src/images/TwilioHackathon.png)
+
+
 
 
 ---
