@@ -103,7 +103,7 @@ Also:
 
 To run the project, you need to run in 2 places.
 
-- Run Springboot backend using Maven tab > Plugins > springboot:run command on DemoApplication file
+- Run Springboot backend using Maven tab > Plugins > springboot:run command on DemoApplication file or you could start debug the green button.
 - Run React front end by cd src/main/ui
 - `npm install`
 - `npm run dev`
